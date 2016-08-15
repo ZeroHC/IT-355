@@ -1,0 +1,4 @@
+[04-Jul-2016 01:45:30 America/Chicago] PHP Fatal error:  Cannot access protected property Address::$_address_id in /home/hliu/public_html/it355/assign2/demo.php on line 29
+[07-Jul-2016 12:09:42 America/Chicago] PHP Fatal error:  Cannot access protected property Address::$_address_id in /home/hliu/public_html/it355/assign2/demo.php on line 29
+[25-Jul-2016 15:40:09 America/Chicago] PHP Fatal error:  Cannot access protected property Address::$_address_id in /home/hliu/public_html/it355/assign2/demo.php on line 29
+[25-Jul-2016 15:40:14 America/Chicago] PHP Fatal error:  Cannot access protected property Address::$_address_id in /home/hliu/public_html/it355/assign2/demo.php on line 29

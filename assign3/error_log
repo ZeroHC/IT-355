@@ -1,0 +1,9 @@
+[11-Jul-2016 00:20:44 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sandbox'@'localhost' (using password: YES) in /home/hliu/public_html/it355/assign3/class.Database.inc on line 33
+[11-Jul-2016 00:20:44 America/Chicago] PHP Fatal error:  Failed to connect to MySQL: Access denied for user 'sandbox'@'localhost' (using password: YES) in /home/hliu/public_html/it355/assign3/class.Database.inc on line 36
+[11-Jul-2016 00:20:56 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sandbox'@'localhost' (using password: YES) in /home/hliu/public_html/it355/assign3/class.Database.inc on line 33
+[11-Jul-2016 00:20:56 America/Chicago] PHP Fatal error:  Failed to connect to MySQL: Access denied for user 'sandbox'@'localhost' (using password: YES) in /home/hliu/public_html/it355/assign3/class.Database.inc on line 36
+[11-Jul-2016 00:20:59 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sandbox'@'localhost' (using password: YES) in /home/hliu/public_html/it355/assign3/class.Database.inc on line 33
+[11-Jul-2016 00:20:59 America/Chicago] PHP Fatal error:  Failed to connect to MySQL: Access denied for user 'sandbox'@'localhost' (using password: YES) in /home/hliu/public_html/it355/assign3/class.Database.inc on line 36
+[11-Jul-2016 00:27:36 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/hliu/public_html/it355/assign3/class.Address.inc on line 150
+[11-Jul-2016 00:42:54 America/Chicago] PHP Fatal error:  Method Address::__toString() must not throw an exception in /home/hliu/public_html/it355/assign3/demo.php on line 0
+[11-Jul-2016 00:45:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/hliu/public_html/it355/assign3/class.Address.inc on line 150
