@@ -1,0 +1,130 @@
+/****** NAV ******/
+nav {
+  margin-bottom : 20px;
+}
+
+#logo {
+  height : 64px;
+}
+
+#login-modal-btn {
+  display : inline;
+  float   : right;
+  margin  : 14px 10px 0 0;
+}
+
+#logout-modal-btn {
+  display    : inline;
+  float      : right;
+  margin-top : 14px;
+}
+
+/****** NAV ******/
+
+/****** PANEL ******/
+#panel {
+  box-shadow : inset 0 -7px 5px -7px rgba(0, 0, 0, 0.3);
+  display    : none;
+}
+
+#panel-btn {
+  margin : 0 10px;
+}
+
+.add-btn {
+  margin-top : 15px;
+}
+
+.remove-btn {
+  margin-top : 15px;
+}
+
+/****** PANEL ******/
+
+/****** CALENDAR ******/
+#calendar-filters {
+  margin-bottom : 5px;
+}
+
+.calendar-card {
+  margin-top : 10px;
+}
+
+.calendar {
+  margin : 35px 0 30px 0;
+}
+
+.calendar-title {
+  margin-left : 10px;
+}
+
+/****** GLOBAL ******/
+a {
+  color : #4CAF50; /*green*/
+}
+
+/*Label color*/
+.input-field label {
+  color : #000000;
+}
+
+/*Label focus color*/
+.input-field input[type=text]:focus + label {
+  color : #4CAF50;
+}
+
+.input-field input[type=password]:focus + label {
+  color : #4CAF50;
+}
+
+/*Label underline focus color*/
+.input-field input[type=text]:focus {
+  border-bottom : 1px solid #4CAF50;
+  box-shadow    : 0 1px 0 0 #4CAF50;
+}
+
+.input-field input[type=password]:focus {
+  border-bottom : 1px solid #4CAF50;
+  box-shadow    : 0 1px 0 0 #4CAF50;
+}
+
+/*Dropdown*/
+.dropdown-content li span {
+  color : #4CAF50; /*green*/
+}
+
+/*Modal*/
+.modal form.col.s12 {
+  padding : 0;
+}
+
+.clearfix {
+  overflow : auto;
+}
+
+/****** GLOBAL ******/
+
+/****** SMALL GRID ******/
+@media only screen and (min-width : 0px) and (max-width : 600px) {
+  #login-modal-btn {
+    display : inline;
+    float   : right;
+    margin  : 10px 10px 0 0;
+  }
+
+  #logout-modal-btn {
+    display    : inline;
+    float      : right;
+    margin-top : 10px;
+  }
+
+  #login-btn {
+    margin-top : 10px;
+  }
+
+  #logo {
+    height : 56px;
+  }
+}
+
+/****** SMALL GRID ******/
